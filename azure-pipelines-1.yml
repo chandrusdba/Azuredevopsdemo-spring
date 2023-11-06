@@ -51,6 +51,5 @@ stages:
       effectivePomSkip: false
       sonarQubeRunAnalysis: false
 
-  '
 
 
